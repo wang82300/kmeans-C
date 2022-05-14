@@ -1,3 +1,4 @@
+//author : Zhuang Lee 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
